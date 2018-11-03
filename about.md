@@ -3,23 +3,25 @@ layout: default
 title: "关于：About"
 ---
 
-## 个人简介：
-
+### 个人简介：
 * 张婷婷
-* 信息保密
-* 来自你们甭想知道的地方
+* 海鲜过敏
+* 不会吃鱼
+* 喜欢吃肉
+* 喜欢喝豆浆
+* 喜欢喝粥
+* 生日12.10
+* 摩羯座
 
 ## 联系方式
 
-<p class="contact">
- <a href="" title="qq联系我">
-</p>
+
 
 ### 关于本站：
 
 * 搭建于[Github](https://github.com/strongQ/strongQ.github.io),欢迎Fork
 * 模板及样式来源[Useful Paradigm](http://usefulparadigm.com/)
-* 为心中的vip搭建
+
 
 ## 其他流言
-* cool
+* 具有一种独特的吸引力哦
